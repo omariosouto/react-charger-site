@@ -4,7 +4,7 @@ description: >-
   os projetos
 ---
 
-# React + React Router
+# React com React Router
 
 O React Charger foi criado pensando em utilizar Redux por padrão. Porém em projetos que não utilizem é perfeitamente possível trabalhar com o React Charger.
 

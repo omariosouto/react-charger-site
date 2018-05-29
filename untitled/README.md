@@ -12,7 +12,7 @@ Para entender como você pode aproveitá-lo para conseguir fazer sua página vir
 
 {% page-ref page="react-+-react-router-+-redux.md" %}
 
-{% page-ref page="untitled-1.md" %}
+{% page-ref page="react-com-react-router.md" %}
 
 
 
