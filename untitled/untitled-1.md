@@ -18,10 +18,6 @@ Primeiramente, você deve comentar os códigos referentes ao Redux:
 
 #### ./src/server/index.js
 
-```javascript
-
-```
-
 ![](../.gitbook/assets/image%20%283%29.png)
 
 
