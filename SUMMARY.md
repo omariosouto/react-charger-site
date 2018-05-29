@@ -2,5 +2,5 @@
 
 * [Read Me](README.md)
 * Começando com React Charger
-* SSR - React + React Router
+* \[SSR\] - React com React Router
 
