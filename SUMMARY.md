@@ -1,4 +1,4 @@
 # Table of contents
 
-* Welcome to React Charger
+* Read Me
 
