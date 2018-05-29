@@ -8,7 +8,9 @@ description: >-
 
 O React Charger foi criado pensando em utilizar Redux por padrão. Porém em projetos que não utilizem é perfeitamente possível trabalhar com o React Charger.
 
-Primeiramente, você deve comentar os códigos referentes ao Redux:
+Primeiramente, você deve baixar o projeto neste link: [https://github.com/omariosouto/react-charger-razzle](https://github.com/omariosouto/react-charger-razzle)
+
+Após ter baixado, deve comentar os códigos referentes ao Redux:
 
 #### ./src/client.js
 
