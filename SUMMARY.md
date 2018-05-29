@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Read Me](README.md)
-* Começando com React Charger
+* [Começando com React Charger](comecando-com-react-charger.md)
 * Formas de Fazer Server Side Render
   * React + React Router
   * React + React Router + Redux
