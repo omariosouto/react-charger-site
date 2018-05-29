@@ -6,7 +6,7 @@ Sempre que você quiser fazer Server Render de algum conteúdo, primeiramente vo
 
 Após isso, automaticamente quando a página carregar estará disponível no objeto window da sua página o atributo **\_\_PRELOADED\_STATE\_\_:**
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 Para entender como você pode aproveitá-lo para conseguir fazer sua página vir com Server Render confira os links abaixo:
 

@@ -16,7 +16,7 @@ Após ter baixado, deve comentar os códigos referentes ao Redux:
 
 #### ./src/client.js
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 #### 
 

@@ -12,11 +12,11 @@ O React Charger Razzle faz um mapeamento do objeto da sua store do Redux no serv
 
 * Após baixar o projeto, caso queira manipular algo relacionado ao redu abra o arquivo **./src/store.js**, ****ele contém todas a lógicas para criar a sua store do Redux.
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 * Sabendo desse arquivo, tudo começa pelo arquivo **./src/client.js** :
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 * Esse arquivo possui a inicialização normal de uma aplicação React com Redux, porém ao criar a store da aplicação passamos como argumento para a store o valor contido em **window.\_\_PRELOADED\_STATE\_\_**, que nada mais é que o objeto que o servidor gera com os dados que ele irá pré-carregar para nossa aplicação.
 
