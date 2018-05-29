@@ -4,5 +4,5 @@
 * Começando com React Charger
 * Formas de Fazer Server Side Render
   * React + React Router
-* React + React Router + Redux
+  * React + React Router + Redux
 
