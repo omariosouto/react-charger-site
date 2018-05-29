@@ -10,7 +10,7 @@ Após isso, automaticamente quando a página carregar estará disponível no obj
 
 Para entender como você pode aproveitá-lo para conseguir fazer sua página vir com Server Render confira os links abaixo:
 
-{% page-ref page="react-+-react-router-+-redux.md" %}
+{% page-ref page="react-com-react-router-e-redux.md" %}
 
 {% page-ref page="react-com-react-router.md" %}
 
