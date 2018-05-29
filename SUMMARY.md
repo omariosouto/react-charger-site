@@ -3,5 +3,6 @@
 * [Read Me](README.md)
 * Começando com React Charger
 * Formas de Fazer Server Side Render
-* Untitled
+  * React + React Router
+* React + React Router + Redux
 
