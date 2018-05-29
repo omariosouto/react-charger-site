@@ -10,7 +10,7 @@ description: >-
 ### Como começar a usar?
 
 O projeto está no Github e você consegue acessá-lo através deste link: [**https://github.com/omariosouto/react-charger-razzle**](https://github.com/omariosouto/react-charger-razzle)  
-Para começar a usar basta você fazer o download do projeto, rodar um **npm install** e em seguida um **npm start:dev** para começar a fazer seus projetos :\)
+Para começar a usar basta você fazer o download do projeto, rodar um **npm install** e em seguida um **npm run start:dev** para começar a fazer seus projetos :\)
 
 ### E o que eu posso fazer com o React Charger?
 
