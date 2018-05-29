@@ -2,5 +2,6 @@
 
 * [Read Me](README.md)
 * Começando com React Charger
-* \[SSR\] - React com React Router
+* Formas de Fazer Server Side Render
+* Untitled
 
