@@ -4,5 +4,5 @@ O React Charger não possui um padrão para autenticação. O que o projeto ofer
 
 ![](.gitbook/assets/image%20%289%29.png)
 
-É possível acessar um parâmetro que resgata as informações do request feito, e como essa função roda no lado do server, caso seja necessário algum token para pegar alguma info do usário na sua aplicação é recomendado que esse token fique armazenado em um cookie para facilitar o acesso a informação no lado do server e do front.
+É possível acessar um parâmetro que resgata as informações do request feito, e como essa função roda no lado do server, caso seja necessário algum token para pegar alguma info do usuário na sua aplicação é recomendado que esse token fique armazenado em um cookie para facilitar o acesso a informação no lado do server e do front.
 
