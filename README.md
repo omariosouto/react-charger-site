@@ -5,7 +5,7 @@ description: >-
   utilizar a ferramenta.
 ---
 
-# Read Me
+# Sobre o projeto
 
 ### Como começar a usar?
 
