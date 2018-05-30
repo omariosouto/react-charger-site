@@ -16,3 +16,9 @@ Para começar a usar basta você fazer o download do projeto, rodar um **npm ins
 
 O React Charger atualmente oferece uma estrutura inicial para trabalhar com Server Side Render dando suporte para projetos com React Puro e utilizando Redux. Aqui neste site serão catalogadas dúvidas comuns que podem acontecer para guiar seus projetos. [Quaisquer dúvidas não deixe de abrir uma issue no Github](https://github.com/omariosouto/react-charger-razzle/issues) 
 
+### O que esse boilerplate suporta nativamente?
+
+* Componentes Assícronos
+* Redux
+* Server Side Render
+
