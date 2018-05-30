@@ -7,6 +7,6 @@
   * [React com React Router](formas-de-fazer-server-side-render/react-com-react-router.md)
   * [Dicas](formas-de-fazer-server-side-render/dicas.md)
 * [Como fazer autenticação?](como-fazer-autenticacao.md)
-* Lazy Loading de Componentes
-* Soluções alternativas e inspirações
+* [Lazy Loading de Componentes](lazy-loading-de-componentes.md)
+* [Soluções alternativas e inspirações](solucoes-alternativas-dicas-e-inspiracoes.md)
 
