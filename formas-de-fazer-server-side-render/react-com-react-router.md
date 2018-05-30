@@ -28,7 +28,7 @@ Após ter baixado, deve comentar os códigos referentes ao Redux:
 
 Após comentar os códigos do Redux, seu arquivo **./src/pages/Home/index.js** deve estar com o seguinte código:
 
-{% embed data="{\"url\":\"https://gist.github.com/omariosouto/6cf2bd72fa1bd6b33a6dedb9d525a605\",\"type\":\"rich\",\"title\":\"React Charger: React + React Router\",\"description\":\"React Charger: React + React Router · GitHub\",\"icon\":{\"type\":\"icon\",\"url\":\"https://gist.github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/13791385?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1},\"embed\":{\"type\":\"reader\",\"html\":\"<script type=\\"text/javascript\\" src=\\"https://gist.github.com/6cf2bd72fa1bd6b33a6dedb9d525a605.js\\"></script>\",\"aspectRatio\":0}}" %}
+{% embed data="{\"url\":\"https://gist.github.com/omariosouto/6cf2bd72fa1bd6b33a6dedb9d525a605\",\"type\":\"rich\",\"title\":\"React Charger: React + React Router\",\"description\":\"React Charger: React + React Router · GitHub\",\"icon\":{\"type\":\"icon\",\"url\":\"https://gist.github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/13791385?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1},\"embed\":{\"type\":\"reader\",\"html\":\"<script type=\\\"text/javascript\\\" src=\\\"https://gist.github.com/6cf2bd72fa1bd6b33a6dedb9d525a605.js\\\"></script>\",\"aspectRatio\":0}}" %}
 
 ## Como funciona/fazer o Server Side Render?
 
@@ -38,7 +38,7 @@ Após comentar os códigos do Redux, seu arquivo **./src/pages/Home/index.js** d
 * Já no lado do client, você terá acesso aos dados dinâmicos por meio de `window.__PRELOADED_STATE__`
 * É importante ressaltar que o importante é que você use esses dois valores no construtor do seu componente e decida como preencher o state inicial da aplicação em cada lado. Um código bem comum é o do exemplo abaixo:
 
-{% embed data="{\"url\":\"https://gist.github.com/omariosouto/a507075896d606c678abd79803143098\",\"type\":\"rich\",\"title\":\"constructorReactPure.js\",\"description\":\"constructorReactPure.js · GitHub\",\"icon\":{\"type\":\"icon\",\"url\":\"https://gist.github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/13791385?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1},\"embed\":{\"type\":\"reader\",\"html\":\"<script type=\\"text/javascript\\" src=\\"https://gist.github.com/a507075896d606c678abd79803143098.js\\"></script>\",\"aspectRatio\":0}}" %}
+{% embed data="{\"url\":\"https://gist.github.com/omariosouto/a507075896d606c678abd79803143098\",\"type\":\"rich\",\"title\":\"constructorReactPure.js\",\"description\":\"constructorReactPure.js · GitHub\",\"icon\":{\"type\":\"icon\",\"url\":\"https://gist.github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/13791385?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1},\"embed\":{\"type\":\"reader\",\"html\":\"<script type=\\\"text/javascript\\\" src=\\\"https://gist.github.com/a507075896d606c678abd79803143098.js\\\"></script>\",\"aspectRatio\":0}}" %}
 
 
 
